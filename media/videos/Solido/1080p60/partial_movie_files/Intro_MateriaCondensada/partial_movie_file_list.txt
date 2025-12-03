@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/solecito-punk/Escritorio/mineria/Solido/media/videos/Solido/1080p60/partial_movie_files/Intro_MateriaCondensada/3529212410_4269294236_2358810818.mp4'
+file 'file:/home/solecito-punk/Escritorio/mineria/Solido/media/videos/Solido/1080p60/partial_movie_files/Intro_MateriaCondensada/3040924799_4147272002_3556766574.mp4'
+file 'file:/home/solecito-punk/Escritorio/mineria/Solido/media/videos/Solido/1080p60/partial_movie_files/Intro_MateriaCondensada/3040924799_2341082278_2229524895.mp4'
+file 'file:/home/solecito-punk/Escritorio/mineria/Solido/media/videos/Solido/1080p60/partial_movie_files/Intro_MateriaCondensada/3040924799_879859257_4114844534.mp4'
+file 'file:/home/solecito-punk/Escritorio/mineria/Solido/media/videos/Solido/1080p60/partial_movie_files/Intro_MateriaCondensada/3040924799_1432899275_929058791.mp4'
+file 'file:/home/solecito-punk/Escritorio/mineria/Solido/media/videos/Solido/1080p60/partial_movie_files/Intro_MateriaCondensada/3040924799_3979319439_2729958432.mp4'
+file 'file:/home/solecito-punk/Escritorio/mineria/Solido/media/videos/Solido/1080p60/partial_movie_files/Intro_MateriaCondensada/3040924799_4247107814_1873496269.mp4'

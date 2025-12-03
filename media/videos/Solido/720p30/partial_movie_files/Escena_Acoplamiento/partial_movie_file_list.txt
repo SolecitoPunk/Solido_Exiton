@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/solecito-punk/Escritorio/mineria/Solido/media/videos/Solido/720p30/partial_movie_files/Escena_Acoplamiento/2016333726_996012750_223132457.mp4'
+file 'file:/home/solecito-punk/Escritorio/mineria/Solido/media/videos/Solido/720p30/partial_movie_files/Escena_Acoplamiento/543634251_2487354020_812717178.mp4'
+file 'file:/home/solecito-punk/Escritorio/mineria/Solido/media/videos/Solido/720p30/partial_movie_files/Escena_Acoplamiento/543634251_3328664879_4169397423.mp4'
+file 'file:/home/solecito-punk/Escritorio/mineria/Solido/media/videos/Solido/720p30/partial_movie_files/Escena_Acoplamiento/543634251_35097248_2466645711.mp4'
+file 'file:/home/solecito-punk/Escritorio/mineria/Solido/media/videos/Solido/720p30/partial_movie_files/Escena_Acoplamiento/543634251_3092235835_3701866018.mp4'
+file 'file:/home/solecito-punk/Escritorio/mineria/Solido/media/videos/Solido/720p30/partial_movie_files/Escena_Acoplamiento/543634251_3643148425_3691264849.mp4'
+file 'file:/home/solecito-punk/Escritorio/mineria/Solido/media/videos/Solido/720p30/partial_movie_files/Escena_Acoplamiento/543634251_1265425307_1212900835.mp4'
+file 'file:/home/solecito-punk/Escritorio/mineria/Solido/media/videos/Solido/720p30/partial_movie_files/Escena_Acoplamiento/543634251_4247107814_2211166953.mp4'

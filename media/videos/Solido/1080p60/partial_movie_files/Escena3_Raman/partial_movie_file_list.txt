@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/solecito-punk/Escritorio/mineria/Solido/media/videos/Solido/1080p60/partial_movie_files/Escena3_Raman/3529212410_191688583_223132457.mp4'
+file 'file:/home/solecito-punk/Escritorio/mineria/Solido/media/videos/Solido/1080p60/partial_movie_files/Escena3_Raman/3040924799_957466150_1141823155.mp4'
+file 'file:/home/solecito-punk/Escritorio/mineria/Solido/media/videos/Solido/1080p60/partial_movie_files/Escena3_Raman/3040924799_793595360_1228201076.mp4'
+file 'file:/home/solecito-punk/Escritorio/mineria/Solido/media/videos/Solido/1080p60/partial_movie_files/Escena3_Raman/3040924799_3127100896_574802616.mp4'
+file 'file:/home/solecito-punk/Escritorio/mineria/Solido/media/videos/Solido/1080p60/partial_movie_files/Escena3_Raman/3040924799_3100813007_1868184379.mp4'
+file 'file:/home/solecito-punk/Escritorio/mineria/Solido/media/videos/Solido/1080p60/partial_movie_files/Escena3_Raman/3040924799_788477918_3535762954.mp4'
+file 'file:/home/solecito-punk/Escritorio/mineria/Solido/media/videos/Solido/1080p60/partial_movie_files/Escena3_Raman/3040924799_2932853559_2742142269.mp4'
+file 'file:/home/solecito-punk/Escritorio/mineria/Solido/media/videos/Solido/1080p60/partial_movie_files/Escena3_Raman/3040924799_4247107814_2767838552.mp4'

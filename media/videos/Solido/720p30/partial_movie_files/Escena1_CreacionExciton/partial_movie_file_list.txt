@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/solecito-punk/Escritorio/mineria/Solido/media/videos/Solido/720p30/partial_movie_files/Escena1_CreacionExciton/2016333726_1064669822_223132457.mp4'
+file 'file:/home/solecito-punk/Escritorio/mineria/Solido/media/videos/Solido/720p30/partial_movie_files/Escena1_CreacionExciton/543634251_3730052265_1981536483.mp4'
+file 'file:/home/solecito-punk/Escritorio/mineria/Solido/media/videos/Solido/720p30/partial_movie_files/Escena1_CreacionExciton/543634251_1342705480_2991402854.mp4'
+file 'file:/home/solecito-punk/Escritorio/mineria/Solido/media/videos/Solido/720p30/partial_movie_files/Escena1_CreacionExciton/543634251_66667356_124719398.mp4'
+file 'file:/home/solecito-punk/Escritorio/mineria/Solido/media/videos/Solido/720p30/partial_movie_files/Escena1_CreacionExciton/543634251_1228657125_1960559199.mp4'
+file 'file:/home/solecito-punk/Escritorio/mineria/Solido/media/videos/Solido/720p30/partial_movie_files/Escena1_CreacionExciton/543634251_3400877260_779533793.mp4'
+file 'file:/home/solecito-punk/Escritorio/mineria/Solido/media/videos/Solido/720p30/partial_movie_files/Escena1_CreacionExciton/543634251_4071516364_3057729818.mp4'
